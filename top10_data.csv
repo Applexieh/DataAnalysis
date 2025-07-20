@@ -1,0 +1,21 @@
+start_station_name,member_casual,n,laltitude,longitude
+Canal St & Adams St,casual,1034,41.879255,-87.639904
+Canal St & Adams St,member,4797,41.879255,-87.639904
+Canal St & Madison St,casual,1545,41.882241,-87.639756
+Canal St & Madison St,member,6453,41.882241,-87.639756
+Clark St & Elm St,casual,1359,41.903486,-87.631253
+Clark St & Elm St,member,5311,41.903486,-87.631253
+Clinton St & Jackson Blvd,casual,1113,41.878876,-87.641715
+Clinton St & Jackson Blvd,member,5270,41.878876,-87.641715
+Clinton St & Madison St,casual,1296,41.882242,-87.641066
+Clinton St & Madison St,member,5878,41.882242,-87.641066
+Clinton St & Washington Blvd,casual,1252,41.88338,-87.64117
+Clinton St & Washington Blvd,member,7490,41.88338,-87.64117
+Ellis Ave & 60th St,casual,1161,41.785097,-87.601798
+Ellis Ave & 60th St,member,5268,41.785097,-87.601798
+Kingsbury St & Kinzie St,casual,1653,41.889176,-87.638506
+Kingsbury St & Kinzie St,member,7945,41.889176,-87.638506
+Streeter Dr & Grand Ave,casual,5031,41.891466,-87.612823
+Streeter Dr & Grand Ave,member,1909,41.891466,-87.612823
+University Ave & 57th St,casual,1334,41.791568,-87.599422
+University Ave & 57th St,member,5803,41.791568,-87.599422
